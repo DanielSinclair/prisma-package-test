@@ -2,7 +2,7 @@
   "name": "prisma-package-test",
   "version": "1.0.0",
   "scripts": {
-    "es6": "ncc build es6.js -o lib && micro lib/index.js",
+    "es6": "ncc build es6.js -o lib && micro-dev lib/index.js",
     "cjs": "micro-dev cjs.js",
     "next": "next dev"
   },
