@@ -11,4 +11,4 @@
 
 ## Workaround:
 
-✅ `es6:copy` - copies schema file from package, ES6 via es6:ncc
+✅ `es6:copy` - copies schema file from package into production build, ES6 via es6:ncc
